@@ -32,8 +32,3 @@
 
 ## 6 PPT
 - ***<a href="http://vesta.cloudate.net/vesta/doc/统一发号器(Vesta) - 介绍 - 李艳鹏.pptx">PPT介绍</a>***
-
-## 7 获得技术支持
-
-
-<a href="./vesta-theme/assets/images/我的微信QR.jpeg"><img src="./vesta-theme/assets/images/我的微信QR.jpeg" alt="cloudate-qrcode" width="150" height="190" class="alignnone size-full wp-image-1138" /></a>
